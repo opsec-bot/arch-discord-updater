@@ -21,7 +21,7 @@ A simple Bash script for Arch Linux that automatically downloads, installs, and 
 
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/opesec-bot/arch-discord-updater.git
+   git clone https://github.com/opsec-bot/arch-discord-updater.git
    cd arch-discord-updater
    ```
 
